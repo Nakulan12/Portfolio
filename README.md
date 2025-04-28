@@ -13,6 +13,7 @@ Education
 Contact
 
 🛠 Technologies Used
+
 HTML
 
 CSS
