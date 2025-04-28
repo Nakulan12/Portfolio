@@ -1,7 +1,7 @@
-Nakulan R - Portfolio Website
-This is my personal portfolio website built using HTML and CSS. It highlights my skills, projects, education, and contact information.
+## Nakulan R - Portfolio Website ##
+**## This is my personal portfolio website built using HTML and CSS. It highlights my skills, projects, education, and contact information. ##**
 
-🔗 Sections Included
+##🔗 Sections Included ##
 About Me
 
 Projects
@@ -12,7 +12,7 @@ Education
 
 Contact
 
-🛠 Technologies Used
+## 🛠 Technologies Used ##
 
 HTML
 
