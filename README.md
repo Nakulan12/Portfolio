@@ -20,7 +20,7 @@ CSS
 
 Google Fonts
 
-📬 Contact
+📬 Contact:
 Email: nakulanr307@gmail.com
 
 LinkedIn: linkedin.com/in/nakulan-r-92ab31339
