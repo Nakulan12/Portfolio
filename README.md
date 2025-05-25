@@ -4,7 +4,7 @@
 ##🔗 Sections Included ##
 About Me
 
-Projects.
+Projects
 
 Skills
 
